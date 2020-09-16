@@ -35,6 +35,16 @@ const questions = [{
             "None"
         ]
     },
+    {
+        type: "input",
+        name: "contributing",
+        message: "What other users contributed?"
+    },
+    {
+        type: "input",
+        name: "tests",
+        message: "Write any tests done here: "
+    }
 
 
 ]
