@@ -24,6 +24,17 @@ const questions = [{
         name: "usage",
         message: "How does the user use the application?"
     },
+    {
+        type: "list",
+        name: "license",
+        message: "What license would you like to use for your application?",
+        listChoices: [
+            "AGPL",
+            "MIT",
+            "GPLv3",
+            "None"
+        ]
+    },
 
 
 ]
