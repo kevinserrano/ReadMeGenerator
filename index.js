@@ -4,6 +4,7 @@ const inquirer = require("inquirer");
 
 //Need correct path to grab js file
 
+
 const questions = [{
         type: "input",
         name: "title",
@@ -48,4 +49,14 @@ const questions = [{
 
 
 ]
-// console.log("done correctly");
+//console.log("done correctly");
+
+function writeToFile(info) {
+    // want to save the markdown file to the repo
+    fs.writeFile("README.md", info, function (err) {
+        if (err) {
+            return err;
+        }
+        console.log('README created');
+    })
+}
