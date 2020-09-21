@@ -6,6 +6,17 @@ const inquirer = require("inquirer");
 const generateMarkdown = require('../util/MarkDownGenerator.js')
 
 const questions = [{
+
+        type: "input",
+        message: "Welcome to this README generator application.\n  Please enter your Github username.",
+        name: "github"
+    },
+    {
+        type: "input",
+        message: "Please enter a email address.",
+        name: "email"
+    },
+    {
         type: "input",
         name: "title",
         message: "What is the title of your project?"
