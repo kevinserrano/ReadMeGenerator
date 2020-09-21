@@ -10,7 +10,7 @@
   * [Contributing](#contributors)
   * [Tests](#test)
   * [Questions](#questions)
-  * 
+  
   ## Installation
   <p> User must be in terminal and in the folder containing the index.js file. The user then will need to install npm. and run node index.js.</p>
 
