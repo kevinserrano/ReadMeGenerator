@@ -1,7 +1,7 @@
 
-  # README Generator
+  # README.md Generator
   ## Description
-  User is prompted with a series of project related question. Upon answering the questions the application will create a readme.md file with all the corresponding user answers.
+  For this project we are to build a command-line appllication that dynamically creates a professional README.md using the users input.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,16 +10,16 @@
   * [Tests](#test)
   * [Questions](#questions)
   ## Installation
-  <p> User must go to terminal and run npm install along with npm init install. Also must install inquirer and license key gen.</p>
+  <p> User must be in terminal and in the file containing index.js. The user with install npm install along with npm init.</p>
   ## Usage
-  <p> From the folder in terminal containging index.js the user would type node index.js and the application will start to run.</p>
+  <p> User answers the questions given and the application will do the rest.</p>
   ## License
   <p>![Badge](https://img.shields.io/badge/license-MIT License-blue)</p>
   ## Contributors
-  <p>nothis</p>
+  <p>N/A</p>
   ## Test
-  <p> none</p>
+  <p> None</p>
   ## Questions
   <p>Github Profile= https://github.com/kevinserrano/</p>
-  <p> I can be reached at this email:kserrano2484@yahoo.com</p>
+  <p> I can be reached at this email:kserrano2784@yahoo.com</p>
   
