@@ -3,7 +3,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 
 //Need correct path to grab js file
-
+const generateMarkdown = require('../util/MarkDownGenerator.js')
 
 const questions = [{
         type: "input",
@@ -13,7 +13,7 @@ const questions = [{
     {
         type: "input",
         name: "description",
-        message: "Give me a description of your project"
+        message: "Give me a description of your project."
     },
     {
         type: "input",
@@ -39,7 +39,7 @@ const questions = [{
     {
         type: "input",
         name: "contributing",
-        message: "What other users contributed?"
+        message: "What did other users contribute?"
     },
     {
         type: "input",
@@ -52,11 +52,42 @@ const questions = [{
 //console.log("done correctly");
 
 function writeToFile(info) {
-    // want to save the markdown file to the repo
+
     fs.writeFile("README.md", info, function (err) {
         if (err) {
-            return err;
+            throw err;
         }
         console.log('README created');
     })
 }
+
+function init() {
+    return inquirer
+        .prompt(questions)
+
+        .catch(function (err) {
+            console.log(err);
+        });
+}
+// inquirer
+//     .prompt(questions).then(answers => {
+
+//         console.log('\nanswers:');
+//         console.log(answers);
+//     }).catch(_err => {
+//         console.log("this failed")
+//     })
+// call the init function to start
+init()
+    .then(function (data) {
+        return generateMarkdown(data)
+    }).catch(error => {
+        console.log("ERROR");
+    })
+    .then((answers) => {
+        console.log(answers)
+        writeToFile(answers)
+
+    }).catch(error => {
+        console.log("File not written");
+    })

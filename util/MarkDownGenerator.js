@@ -12,7 +12,7 @@ function generateMarkdown(info) {
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  <p> ${info.install}</p>
+  <p> ${info.installation}</p>
   ## Usage
   <p> ${info.usage}</p>
   ## License

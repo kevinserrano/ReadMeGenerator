@@ -1,0 +1,15 @@
+{
+  "name": "readme_gererator",
+  "version": "1.0.0",
+  "description": "readme_auto_generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin_serrano",
+  "license": "ISC"
+}
