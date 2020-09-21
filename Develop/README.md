@@ -1,7 +1,7 @@
 
   # README Generator
   ## Description
-  User will be prompted with a series of questions regarding the project. User then answers the questions accordingly and the application will then create a readme file with the corresponding answers.
+  User is promped with a series of project related questions. Upon user completion of questionaire the application creates a Readme.md file with corresponding user answers.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,9 +10,9 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  <p> In the terminal user will need to run a npm install, npm init, inquirer install and license key gen.</p>
+  <p> User must go to terminal and run npm install along with npm init install. Also must run inquirer install and license key gen</p>
   ## Usage
-  <p> in the terminal and correct folder containing you index.js file you would enter nonode index.js.</p>
+  <p> From the folder containg index.js in the terminal the user will need to run node index.js.</p>
   ## License
   <p>![License](https://img.shields.io/badge/license-MIT License-blue)</p>
   ## Contributors
@@ -21,5 +21,5 @@
   <p> none</p>
   ## Questions
   <p>*[Github Profile](#https://github.com/kevinserrano/)</p>
-  <p> I can be reached at kserrano2784@yahoo.com</p>
+  <p> I can be reached at this email: <button>kserrano2784@yahoo.com</button></p>
   
