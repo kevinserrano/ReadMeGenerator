@@ -1,7 +1,7 @@
 
   # README Generator
   ## Description
-  You will be prompted with a series of questions. Answer to the best of your ability and my app with auto fill the page for you.
+  User will he prompted with a set of questions. User answers the questions properly and app will create the readme with corresponding answers.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,13 +10,16 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  <p> If running from a terminal, such as gitbash, provided you are in the proper directory for this application, you must first install the appropriate dependencies by first typing 'npm i' then 'node index.js' to run the application.</p>
+  <p> Through the terminal and of course in the right folder. User would need to download npm install, npm init, along with licence key gen.</p>
   ## Usage
-  <p> Answer questions</p>
+  <p> Once opened just answer questions.</p>
   ## License
-  ![License](https://img.shields.io/badge/license-MIT License-blue)
+  ![License](https://img.shields.io/badge/license-MIT License-blue)<br>
   ## Contributors
-  <p>?</p>
+  <p>nothing</p>
   ## Test 
   <p> none</p>
+  ## Questions
+  <p> [Github Profile](https://github.com/kevinserrano/)</p>
+  <p> I can be reached at kserrano2784@yahoo.com</p>
   

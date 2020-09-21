@@ -1,6 +1,6 @@
 function generateMarkdown(info) {
-    // This is where entire README.md will reference, with title, description, features, etc.
-    return `
+  // This is where entire README.md will reference, with title, description, features, etc.
+  return `
   # ${info.title}
   ## Description
   ${info.description}
@@ -16,11 +16,14 @@ function generateMarkdown(info) {
   ## Usage
   <p> ${info.usage}</p>
   ## License
-  ![License](https://img.shields.io/badge/license-${info.license}-blue)
+  ![License](https://img.shields.io/badge/license-${info.license}-blue)<br>
   ## Contributors
   <p>${info.contributing}</p>
   ## Test 
   <p> ${info.tests}</p>
+  ## Questions
+  <p> [Github Profile](https://github.com/${info.github}/)</p>
+  <p> I can be reached at ${info.email}</p>
   `
 }
 
