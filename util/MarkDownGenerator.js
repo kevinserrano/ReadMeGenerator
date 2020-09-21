@@ -22,7 +22,7 @@ function generateMarkdown(info) {
   ## Test 
   <p> ${info.tests}</p>
   ## Questions
-  <p> [Github Profile](https://github.com/${info.github}/)</p>
+  <p> Github Profile = https://github.com/${info.github}/</p>
   <p> I can be reached at ${info.email}</p>
   `
 }
