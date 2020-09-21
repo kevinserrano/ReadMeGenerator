@@ -12,7 +12,7 @@ function generateMarkdown(info) {
   * [Contributing](#contributors)
   * [Tests](#test)
   * [Questions](#questions)
-  * 
+  
   ## Installation
   <p> ${info.installation}</p>
 
