@@ -8,8 +8,8 @@ function generateMarkdown(info) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Contributing](#contributors)
+  * [Tests](#test)
   * [Questions](#questions)
   ## Installation
   <p> ${info.installation}</p>
