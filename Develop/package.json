@@ -4,7 +4,8 @@
   "description": "readme_auto_generator",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "license-key-gen": "^0.1.4"
   },
   "devDependencies": {},
   "scripts": {
