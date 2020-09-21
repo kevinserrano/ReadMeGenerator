@@ -13,15 +13,15 @@ function generateMarkdown(info) {
   * [Questions](#questions)
   ## Installation
   <p> ${info.installation}</p>
-  ## Usage
+## Usage
   <p> ${info.usage}</p>
-  ## License
-  ![License](https://img.shields.io/badge/license-${info.license}-blue)<br>
-  ## Contributors
+## License
+  <p>![License](https://img.shields.io/badge/license-${info.license}-blue)</p>
+## Contributors
   <p>${info.contributing}</p>
-  ## Test 
+## Test
   <p> ${info.tests}</p>
-  ## Questions
+## Questions
   <p> Github Profile = https://github.com/${info.github}/</p>
   <p> I can be reached at ${info.email}</p>
   `
