@@ -14,7 +14,7 @@
   ## Usage
   <p> From the folder containg index.js in the terminal the user will need to run node index.js.</p>
   ## License
-  <p>![License](https://img.shields.io/badge/license-MIT License-blue)</p>
+  <p>![Badge](https://img.shields.io/badge/license-MIT License-blue)</p>
   ## Contributors
   <p>nothing</p>
   ## Test
