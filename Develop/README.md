@@ -20,6 +20,6 @@
   ## Test
   <p> none</p>
   ## Questions
-  <p>*[Github Profile](#https://github.com/kevinserrano/)</p>
-  <p> I can be reached at this email: <button>kserrano2784@yahoo.com</button></p>
+  <p> Github Profile = https://github.com/kevinserrano/)</p>
+  <p> I can be reached at this email: kserrano2784@yahoo.com</p>
   
