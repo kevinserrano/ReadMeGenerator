@@ -14,12 +14,12 @@
   ## Usage
   <p> From the folder containg index.js in the terminal the user will need to run node index.js.</p>
   ## License
-  <p>![License](https://img.shields.io/badge/license-MIT License-blue)</p>
+  <p>![Badge](https://img.shields.io/badge/license-MIT License-blue)</p>
   ## Contributors
   <p>nothing</p>
   ## Test
   <p> none</p>
   ## Questions
-  <p>*[Github Profile](#https://github.com/kevinserrano/)</p>
-  <p> I can be reached at this email: <button>kserrano2784@yahoo.com</button></p>
+  <p> Github Profile = https://github.com/kevinserrano/)</p>
+  <p> I can be reached at this email: kserrano2784@yahoo.com</p>
   

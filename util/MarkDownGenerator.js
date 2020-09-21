@@ -16,7 +16,7 @@ function generateMarkdown(info) {
   ## Usage
   <p> ${info.usage}</p>
   ## License
-  <p>![License](https://img.shields.io/badge/license-${info.license}-blue)</p>
+  <p>![Badge](https://img.shields.io/badge/license-${info.license}-blue)</p>
   ## Contributors
   <p>${info.contributing}</p>
   ## Test
