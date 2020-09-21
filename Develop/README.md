@@ -1,7 +1,7 @@
 
-  # j
+  # README Generator
   ## Description
-  j
+  An application that prompts you with a series of questions and the auto fills a readme with your responses.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,13 +10,13 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  <p> j</p>
+  <p> not sure actually</p>
   ## Usage
-  <p> j</p>
+  <p> Answer the questions properly and the code does the rest for user.</p>
   ## License
   ![License](https://img.shields.io/badge/license-MIT License-blue)
   ## Contributors
-  <p>j</p>
+  <p>?</p>
   ## Test 
-  <p> j</p>
+  <p> none</p>
   
