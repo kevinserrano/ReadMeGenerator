@@ -31,4 +31,4 @@
   <a href = "https://github.com/kevinserrano"> GitHub </a> 
 
   I can be reached at this email : <a href= "mailto:kserrano2784@yahoo.com">kserrano2784@yahoo.com</a>
-   <iframe>https://drive.google.com/file/d/1zWS5NjQFR4ofYlFvnAJjZWpwAQ2_tayh/view </iframe>
+  <iframe src="https://drive.google.com/file/d/1zWS5NjQFR4ofYlFvnAJjZWpwAQ2_tayh/preview" width="200" height="100"></iframe>
