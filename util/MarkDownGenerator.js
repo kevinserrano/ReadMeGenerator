@@ -1,5 +1,10 @@
 function generateMarkdown(info) {
   // This is where entire README.md will reference, with title, description, features, etc.
+
+  let badge = `https://img.shields.io/badge/license-${info.license}-brightgreen`;
+  badge = encodeURI(badge);
+
+
   return `
   # ${info.title}
   ## Description
@@ -20,7 +25,8 @@ function generateMarkdown(info) {
   <p> ${info.usage}</p>
 
   ## License
-  <p>![Badge](https://img.shields.io/badge/license-${info.license}-blue)</p>
+  <p>![badge](${badge})</p>
+  <p>${info.license}</p>
 
   ## Contributors
   <p>${info.contributing}</p>
@@ -29,7 +35,7 @@ function generateMarkdown(info) {
   <p> ${info.tests}</p>
   
   ## Questions
-  <p>Github Profile= https://github.com/${info.github}/</p>
+  <a href = "https://github.com/${info.github}"> GitHub </a>
   <p> I can be reached at this email:${info.email}</p>
   `
 }
