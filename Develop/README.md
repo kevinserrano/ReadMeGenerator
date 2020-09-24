@@ -1,7 +1,7 @@
 
-  # d
+  # readme
   ## Description
-  d
+  dddd
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,22 +12,22 @@
   * [Questions](#questions)
   
   ## Installation
-  <p> d</p>
+  <p> ddddd</p>
 
   ## Usage
-  <p> d</p>
+  <p> ddddd</p>
 
   ## License
-  <img>![badge](https://img.shields.io/badge/license-MIT%20License-brightgreen)</img>
-  <p>MIT License</p>
+  <img>![badge](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-brightgreen)</img>
+  <p>GNU General Public License v3.0</p>
 
   ## Contributors
-  <p>d</p>
+  <p>ddd</p>
 
   ## Test
-  <p> d</p>
+  <p> ddd</p>
   
   ## Questions
-  <a href = "https://github.com/d"> GitHub </a>
-  <p> I can be reached at this email:d</p>
+  <a href = "https://github.com/kevinserrano"> GitHub </a>
+  I can be reached at this email : <a href= "mailto:kserrano2784@yahoo.com">kserrano2784@yahoo.com</a>
   
