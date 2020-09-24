@@ -25,7 +25,7 @@ function generateMarkdown(info) {
   <p> ${info.usage}</p>
 
   ## License
-  <p>![badge](${badge})</p>
+  <img>![badge](${badge})</img>
   <p>${info.license}</p>
 
   ## Contributors
@@ -35,8 +35,8 @@ function generateMarkdown(info) {
   <p> ${info.tests}</p>
   
   ## Questions
-  <a href = "https://github.com/${info.github}"> GitHub </a>
-  <p> I can be reached at this email:${info.email}</p>
+  <a href = "https://github.com/${info.github}"> GitHub </a> \n
+  I can be reached at this email : <a href= "mailto:${info.email}">${info.email}</a>
   `
 }
 
