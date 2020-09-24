@@ -1,7 +1,7 @@
 
-  # ddddd
+  # d
   ## Description
-  dddd
+  d
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,22 +12,22 @@
   * [Questions](#questions)
   
   ## Installation
-  <p> dddd</p>
+  <p> d</p>
 
   ## Usage
-  <p> dddd</p>
+  <p> d</p>
 
   ## License
-  <p>![badge](https://img.shields.io/badge/license-MIT%20License-brightgreen)</p>
+  <img>![badge](https://img.shields.io/badge/license-MIT%20License-brightgreen)</img>
   <p>MIT License</p>
 
   ## Contributors
-  <p>dddd</p>
+  <p>d</p>
 
   ## Test
-  <p> dddd</p>
+  <p> d</p>
   
   ## Questions
-  <a href = "https://github.com/kevinserrano"> GitHub </a>
-  <p> I can be reached at this email:dddd</p>
+  <a href = "https://github.com/d"> GitHub </a>
+  <p> I can be reached at this email:d</p>
   
